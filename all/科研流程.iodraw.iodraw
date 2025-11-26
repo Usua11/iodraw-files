@@ -220,14 +220,8 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--155" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="404" y="217.5" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--156" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="430" y="217.5" width="20" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--157" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="460" y="217.5" width="20" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--183" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="490" y="217.5" width="20" height="60" as="geometry" />
+        <mxCell id="UCoES0cmEse8rLCfqu6--185" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="428" y="217.5" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
