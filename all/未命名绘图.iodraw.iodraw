@@ -31,8 +31,8 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--27" value="虾糜凝胶特性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="430" y="110" width="30" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="UCoES0cmEse8rLCfqu6--28" value="虾基础营养物质" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
