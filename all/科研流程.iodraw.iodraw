@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="120" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--27" value="虾糜凝胶特性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="389" y="190" width="50" height="32.5" as="geometry" />
+          <mxGeometry x="389" y="170" width="50" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--28" value="虾基础营养物质" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="167.5" width="60" height="35" as="geometry" />
@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--125" value="影响虾糜凝胶形成的因素" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="280" y="250" width="80" height="35" as="geometry" />
+          <mxGeometry x="260" y="345" width="80" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
