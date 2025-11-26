@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--35" value="水分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="105" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="110" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--36">
           <mxGeometry relative="1" as="geometry">
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--36" value="灰分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="135" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="140" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--37">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--37" value="粗蛋白" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="210" y="165" width="40" height="20" as="geometry" />
+          <mxGeometry x="210" y="170" width="40" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--38">
           <mxGeometry relative="1" as="geometry">
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--50" value="外观形态" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="470" y="90" width="60" height="15" as="geometry" />
+          <mxGeometry x="470" y="110" width="60" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
