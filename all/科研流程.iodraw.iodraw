@@ -13,6 +13,11 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;南美白对虾&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;斑节对虾&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;罗氏虾&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--221" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.608695652174" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--27" value="虾糜凝胶特性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="389" y="170" width="71" height="30" as="geometry" />
         </mxCell>
@@ -131,11 +136,6 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--154" value="质构特性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="391.5" y="221.03" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--196" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--155">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425.5769230769231" y="207.28" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--207" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="325" as="targetPoint" />
@@ -208,12 +208,6 @@
             <mxPoint x="350.5" y="287.28" as="sourcePoint" />
             <mxPoint x="498.5" y="287.28" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--216" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UCoES0cmEse8rLCfqu6--27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.98" y="210" as="sourcePoint" />
-            <mxPoint x="414.98" y="202.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
