@@ -191,7 +191,7 @@
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--220" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--125">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="324" as="targetPoint" />
+            <mxPoint x="415" y="324.9635036496351" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--125" value="影响虾糜凝胶形成的因素" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -247,7 +247,7 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--207" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415" y="320" as="targetPoint" />
-            <mxPoint x="414.95" y="283.75" as="sourcePoint" />
+            <mxPoint x="414.95" y="284" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--155" value="保水性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
