@@ -184,11 +184,6 @@
             <mxPoint x="620" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--150" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--125">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--125" value="影响虾糜凝胶形成的因素" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="275" y="287.5" width="80" height="35" as="geometry" />
         </mxCell>
@@ -203,8 +198,8 @@
             <mxPoint x="155" y="280" as="sourcePoint" />
             <mxPoint x="245" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="280" />
-              <mxPoint x="195" y="280" />
+              <mxPoint x="155" y="290" />
+              <mxPoint x="245" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
