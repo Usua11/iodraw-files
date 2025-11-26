@@ -7,6 +7,10 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="141" y="140" />
+              <mxPoint x="141" y="180" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--1" value="南美白对虾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -14,7 +18,7 @@
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="targetPoint" />
+            <mxPoint x="170" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--2" value="斑节对虾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -26,7 +30,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--5" value="罗氏虾" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="190" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
