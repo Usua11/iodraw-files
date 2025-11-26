@@ -64,13 +64,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--62" value="水分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="215" width="20" height="47.5" as="geometry" />
+          <mxGeometry x="140" y="223.75" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--64" value="灰分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="170" y="215" width="20" height="47.5" as="geometry" />
+          <mxGeometry x="170" y="223.75" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--65" value="粗蛋白" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="215" width="20" height="47.5" as="geometry" />
+          <mxGeometry x="200" y="223.75" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--131" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--66">
           <mxGeometry relative="1" as="geometry">
@@ -78,7 +78,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--66" value="粗脂肪" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="215" width="20" height="47.5" as="geometry" />
+          <mxGeometry x="230" y="223.75" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--106" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--68">
           <mxGeometry relative="1" as="geometry">
