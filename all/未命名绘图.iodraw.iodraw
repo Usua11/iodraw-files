@@ -118,17 +118,11 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--56" value="色泽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="150" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--57" value="动态流变" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="175" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--58" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="530" y="185" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--59" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="540" y="195" width="50" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--60" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="550" y="205" width="50" height="15" as="geometry" />
+          <mxGeometry x="470" y="195" width="50" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
