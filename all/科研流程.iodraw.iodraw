@@ -156,7 +156,7 @@
             <mxPoint x="620" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--84" value="外观结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--84" value="外观结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--101" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--85">
