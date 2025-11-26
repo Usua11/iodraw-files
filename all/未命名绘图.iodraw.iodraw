@@ -112,11 +112,11 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--54" value="质构特性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="470" y="110" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--55" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="500" y="155" width="50" height="15" as="geometry" />
+        <mxCell id="UCoES0cmEse8rLCfqu6--55" value="保水性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--56" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="510" y="165" width="50" height="15" as="geometry" />
+          <mxGeometry x="470" y="150" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--57" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" y="175" width="50" height="15" as="geometry" />
