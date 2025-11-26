@@ -53,6 +53,11 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--27" value="虾糜凝胶特性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="414" y="130" width="26" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="160.0223463687151" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--28" value="虾基础营养物质" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="270" y="125" width="30" height="70" as="geometry" />
         </mxCell>
@@ -87,6 +92,12 @@
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--38" value="粗脂肪" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="200" y="195" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--49" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="190" as="sourcePoint" />
+            <mxPoint x="330" y="140" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
