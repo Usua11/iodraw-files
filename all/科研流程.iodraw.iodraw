@@ -207,7 +207,7 @@
             <mxPoint x="420" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--112" value="虾糜凝胶胶形成的影响因素" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--112" value="影响虾糜凝胶胶形成的因素" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="112.5" width="26" height="85" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--120" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
