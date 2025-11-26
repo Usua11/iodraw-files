@@ -16,6 +16,11 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--27" value="虾糜凝胶特性" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="389" y="170" width="50" height="32.5" as="geometry" />
         </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--129" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200.1290322580645" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--28" value="虾基础营养物质" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="170" y="167.5" width="60" height="35" as="geometry" />
         </mxCell>
@@ -53,6 +58,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--130" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150.1290322580645" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--62" value="水分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="215" width="20" height="47.5" as="geometry" />
         </mxCell>
@@ -61,6 +71,11 @@
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--65" value="粗蛋白" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="215" width="20" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UCoES0cmEse8rLCfqu6--131" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UCoES0cmEse8rLCfqu6--66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.1290322580645" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--66" value="粗脂肪" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="215" width="20" height="47.5" as="geometry" />
