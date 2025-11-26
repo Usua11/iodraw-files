@@ -57,10 +57,10 @@
           <mxGeometry x="120" y="222.5" width="20" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--64" value="灰分" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="222.5" width="20" height="37.5" as="geometry" />
+          <mxGeometry x="140" y="222.5" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--65" value="粗蛋白" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="222.5" width="40" height="15" as="geometry" />
+          <mxGeometry x="160" y="222.5" width="20" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--66" value="粗脂肪" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=none;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="277.5" width="40" height="15" as="geometry" />
