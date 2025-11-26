@@ -208,10 +208,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--153" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--153" value="凝胶强度" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="355" y="217.5" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--154" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--154" value="质构特性" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="380" y="217.5" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--155" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
