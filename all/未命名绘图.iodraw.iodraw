@@ -122,16 +122,10 @@
         <mxCell id="UCoES0cmEse8rLCfqu6--70" value="色泽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="175" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--71" value="动态流变" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="195" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--72" value="微观结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="220" width="50" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--78" value="动态流变" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="197.5" width="50" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="UCoES0cmEse8rLCfqu6--79" value="色泽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="UCoES0cmEse8rLCfqu6--79" value="微观结构" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="50" height="15" as="geometry" />
         </mxCell>
         <mxCell id="UCoES0cmEse8rLCfqu6--80" value="色泽" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=1;labelBorderColor=none;" vertex="1" parent="1">
